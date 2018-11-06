@@ -1,0 +1,5 @@
+Ej1) genera 9 instancias validas
+Ej2) genera 5 instancias validas
+
+Ej3) Esta comentada la linea que aumenta en 1 el tamano del arbol despues de la insercion
+	Se generan 5 instancias al final

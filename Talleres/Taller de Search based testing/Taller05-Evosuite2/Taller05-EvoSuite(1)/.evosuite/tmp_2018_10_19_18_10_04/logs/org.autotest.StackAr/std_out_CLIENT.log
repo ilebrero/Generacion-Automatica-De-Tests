@@ -1,0 +1,92 @@
+* Starting client
+* Connecting to master process on port 16232
+* Analyzing classpath: 
+  - /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-Evosuite2/out/production/Taller05-EvoSuite(1)
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar
+  - /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+  - /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-Evosuite2/out/production/Taller05-EvoSuite(1)
+* Finished analyzing classpath
+* Generating tests for class org.autotest.StackAr
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+* Loaded 29 tests from /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-Evosuite2/Taller05-EvoSuite(1)/.evosuite/evosuite-seeds/org.autotest.StackAr.seed
+* Total number of test goals: 
+  - Line 99
+  - Branch 57
+  - Exception 0
+  - MutationFactory 195
+  - Output 16
+  - Method 19
+  - MethodNoException 19
+  - CBranchFitnessFactory 57
+* Using seed 1539983406832
+* Starting evolution
+* Search finished after 67s and 70 generations, 14263 statements, best individual has fitness: 66.20833333333334
+* Writing sequences to pool
+* Minimizing test suite
+[MASTER] 18:11:26.929 [pool-2-thread-1] WARN  TestSuiteMinimizer - Minimization timeout. Roll back to original test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 97%
+* Total number of goals: 99
+* Number of covered goals: 96
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 93%
+* Total number of goals: 57
+* Number of covered goals: 53
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 7
+* Number of covered goals: 7
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 86%
+* Total number of goals: 195
+* Number of covered goals: 167
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 81%
+* Total number of goals: 16
+* Number of covered goals: 13
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 58%
+* Total number of goals: 19
+* Number of covered goals: 11
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 58%
+* Total number of goals: 19
+* Number of covered goals: 11
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 70%
+* Total number of goals: 57
+* Number of covered goals: 40
+* Generated 31 tests with total length 378
+* Resulting test suite's coverage: 80% (average coverage for all fitness functions)
+* Generating assertions
+[MASTER] 18:11:33.753 [pool-2-thread-1] WARN  SimpleMutationAssertionGenerator - Assertion minimization is taking too long (0.749% of time used, but only 9/31 tests minimized), falling back to using all assertions
+* Resulting test suite's mutation score: 42%
+* Compiling and checking tests
+* Writing JUnit test case 'StackAr_ESTest' to /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-Evosuite2/Taller05-EvoSuite(1)/.evosuite/tmp_2018_10_19_18_10_04/tests
+* Done!
+

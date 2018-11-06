@@ -1,0 +1,455 @@
+[MASTER] 13:03:39.218 [pool-2-thread-1] ERROR JUnitAnalyzer - Compilation failed on compilation units: [RegularFileObject[/tmp/EvoSuite_36_1539014619078/org/autotest/StackAr_36_tmp__ESTest.java], RegularFileObject[/tmp/EvoSuite_36_1539014619078/org/autotest/StackAr_36_tmp__ESTest_scaffolding.java]]
+[MASTER] 13:03:39.218 [pool-2-thread-1] ERROR JUnitAnalyzer - Classpath: /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/home/nacho/Programas/ideaIU-2018.2.3/idea-IU-182.4323.46/lib/groovy-all-2.4.15.jar:/home/nacho/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/nacho/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/nacho/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:/home/nacho/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/nacho/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/nacho/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/home/nacho/Programas/ideaIU-2018.2.3/idea-IU-182.4323.46/lib/groovy-all-2.4.15.jar:/home/nacho/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/nacho/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/nacho/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:/home/nacho/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/nacho/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/nacho/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/home/nacho/Programas/ideaIU-2018.2.3/idea-IU-182.4323.46/lib/groovy-all-2.4.15.jar:/home/nacho/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/nacho/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/nacho/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:/home/nacho/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/nacho/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/nacho/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar
+[MASTER] 13:03:39.218 [pool-2-thread-1] ERROR JUnitAnalyzer - evosuiteCP: /home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/home/nacho/Programas/ideaIU-2018.2.3/idea-IU-182.4323.46/lib/groovy-all-2.4.15.jar:/home/nacho/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/nacho/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/nacho/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:/home/nacho/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/nacho/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/nacho/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/out/production/Taller05-EvoSuite:/home/nacho/Programas/ideaIU-2018.2.3/idea-IU-182.4323.46/lib/groovy-all-2.4.15.jar:/home/nacho/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/nacho/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/nacho/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:/home/nacho/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/nacho/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/nacho/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite/evosuite-1.0.6.jar
+[MASTER] 13:03:39.223 [pool-2-thread-1] ERROR JUnitAnalyzer - Diagnostic: incompatible types: java.lang.String cannot be converted to org.autotest.StackAr: 180
+[MASTER] 13:03:39.224 [pool-2-thread-1] ERROR JUnitAnalyzer - RegularFileObject[/tmp/EvoSuite_36_1539014619078/org/autotest/StackAr_36_tmp__ESTest.java]
+1: /*
+2:  * This file was automatically generated by EvoSuite
+3:  * Mon Oct 08 16:03:39 GMT 2018
+4:  */
+5: 
+6: package org.autotest;
+7: 
+8: import org.junit.Test;
+9: import static org.junit.Assert.*;
+10: import static org.evosuite.runtime.EvoAssertions.*;
+11: import org.autotest.StackAr;
+12: import org.evosuite.runtime.EvoRunner;
+13: import org.evosuite.runtime.EvoRunnerParameters;
+14: import org.junit.runner.RunWith;
+15: 
+16: @RunWith(EvoRunner.class) @EvoRunnerParameters(mockJVMNonDeterminism = true, useVFS = true, useVNET = true, resetStaticState = true, useJEE = true) 
+17: public class StackAr_36_tmp__ESTest extends StackAr_36_tmp__ESTest_scaffolding {
+18: 
+19:   @Test(timeout = 4000)
+20:   public void test0()  throws Throwable  {
+21:       StackAr stackAr0 = new StackAr(10);
+22:       assertNotNull(stackAr0);
+23:       
+24:       StackAr stackAr1 = new StackAr(10);
+25:       assertFalse(stackAr1.equals((Object)stackAr0));
+26:       assertNotNull(stackAr1);
+27:       
+28:       stackAr0.push(stackAr1);
+29:       assertFalse(stackAr0.equals((Object)stackAr1));
+30:       assertFalse(stackAr1.equals((Object)stackAr0));
+31:       assertNotSame(stackAr0, stackAr1);
+32:       assertNotSame(stackAr1, stackAr0);
+33:       
+34:       boolean boolean0 = stackAr0.isFull();
+35:       assertFalse(stackAr0.equals((Object)stackAr1));
+36:       assertNotSame(stackAr0, stackAr1);
+37:       assertFalse(boolean0);
+38:       
+39:       stackAr1.push(stackAr0);
+40:       assertFalse(stackAr0.equals((Object)stackAr1));
+41:       assertFalse(stackAr1.equals((Object)stackAr0));
+42:       assertNotSame(stackAr0, stackAr1);
+43:       assertNotSame(stackAr1, stackAr0);
+44:       
+45:       boolean boolean1 = stackAr1.isFull();
+46:       assertFalse(stackAr1.equals((Object)stackAr0));
+47:       assertTrue(boolean1 == boolean0);
+48:       assertNotSame(stackAr1, stackAr0);
+49:       assertFalse(boolean1);
+50:       
+51:       stackAr0.increaseCapacity(1);
+52:       assertFalse(stackAr0.equals((Object)stackAr1));
+53:       assertNotSame(stackAr0, stackAr1);
+54:       
+55:       boolean boolean2 = stackAr0.isEmpty();
+56:       assertFalse(stackAr0.equals((Object)stackAr1));
+57:       assertTrue(boolean2 == boolean1);
+58:       assertTrue(boolean2 == boolean0);
+59:       assertNotSame(stackAr0, stackAr1);
+60:       assertFalse(boolean2);
+61:       
+62:       boolean boolean3 = stackAr0.isEmpty();
+63:       assertFalse(stackAr0.equals((Object)stackAr1));
+64:       assertTrue(boolean3 == boolean0);
+65:       assertTrue(boolean3 == boolean2);
+66:       assertTrue(boolean3 == boolean1);
+67:       assertNotSame(stackAr0, stackAr1);
+68:       assertFalse(boolean3);
+69:       
+70:       int int0 = stackAr1.size();
+71:       assertFalse(stackAr1.equals((Object)stackAr0));
+72:       assertNotSame(stackAr1, stackAr0);
+73:       assertEquals(1, int0);
+74:       
+75:       StackAr stackAr2 = (StackAr)stackAr1.pop();
+76:       assertFalse(stackAr1.equals((Object)stackAr0));
+77:       assertFalse(stackAr2.equals((Object)stackAr1));
+78:       assertNotSame(stackAr1, stackAr2);
+79:       assertNotSame(stackAr1, stackAr0);
+80:       assertNotSame(stackAr2, stackAr1);
+81:       assertSame(stackAr2, stackAr0);
+82:       assertNotNull(stackAr2);
+83:       
+84:       stackAr2.push("");
+85:       assertFalse(stackAr1.equals((Object)stackAr2));
+86:       assertFalse(stackAr1.equals((Object)stackAr0));
+87:       assertFalse(stackAr2.equals((Object)stackAr1));
+88:       assertNotSame(stackAr1, stackAr2);
+89:       assertNotSame(stackAr1, stackAr0);
+90:       assertNotSame(stackAr2, stackAr1);
+91:       assertSame(stackAr2, stackAr0);
+92:       
+93:       stackAr0.push(stackAr2);
+94:       assertFalse(stackAr0.equals((Object)stackAr1));
+95:       assertFalse(stackAr1.equals((Object)stackAr2));
+96:       assertFalse(stackAr1.equals((Object)stackAr0));
+97:       assertFalse(stackAr2.equals((Object)stackAr1));
+98:       assertNotSame(stackAr0, stackAr1);
+99:       assertSame(stackAr0, stackAr2);
+100:       assertNotSame(stackAr1, stackAr2);
+101:       assertNotSame(stackAr1, stackAr0);
+102:       assertNotSame(stackAr2, stackAr1);
+103:       assertSame(stackAr2, stackAr0);
+104:       
+105:       StackAr stackAr3 = (StackAr)stackAr0.top();
+106:       assertFalse(stackAr0.equals((Object)stackAr1));
+107:       assertFalse(stackAr3.equals((Object)stackAr1));
+108:       assertNotSame(stackAr0, stackAr1);
+109:       assertSame(stackAr0, stackAr2);
+110:       assertSame(stackAr0, stackAr3);
+111:       assertSame(stackAr3, stackAr0);
+112:       assertNotSame(stackAr3, stackAr1);
+113:       assertSame(stackAr3, stackAr2);
+114:       assertNotNull(stackAr3);
+115:       
+116:       int int1 = stackAr0.size();
+117:       assertFalse(stackAr0.equals((Object)stackAr1));
+118:       assertFalse(int1 == int0);
+119:       assertNotSame(stackAr0, stackAr1);
+120:       assertSame(stackAr0, stackAr2);
+121:       assertSame(stackAr0, stackAr3);
+122:       assertEquals(3, int1);
+123:       
+124:       StackAr stackAr4 = (StackAr)stackAr0.pop();
+125:       assertFalse(stackAr0.equals((Object)stackAr1));
+126:       assertFalse(stackAr4.equals((Object)stackAr1));
+127:       assertNotSame(stackAr0, stackAr1);
+128:       assertSame(stackAr0, stackAr4);
+129:       assertSame(stackAr0, stackAr2);
+130:       assertSame(stackAr0, stackAr3);
+131:       assertSame(stackAr4, stackAr3);
+132:       assertSame(stackAr4, stackAr2);
+133:       assertSame(stackAr4, stackAr0);
+134:       assertNotSame(stackAr4, stackAr1);
+135:       assertNotNull(stackAr4);
+136:       
+137:       String string0 = (String)stackAr0.pop();
+138:       assertFalse(stackAr0.equals((Object)stackAr1));
+139:       assertNotSame(stackAr0, stackAr1);
+140:       assertSame(stackAr0, stackAr4);
+141:       assertSame(stackAr0, stackAr2);
+142:       assertSame(stackAr0, stackAr3);
+143:       assertEquals("", string0);
+144:       assertNotNull(string0);
+145:       
+146:       boolean boolean4 = stackAr2.isEmpty();
+147:       assertTrue(boolean4 == boolean2);
+148:       assertTrue(boolean4 == boolean0);
+149:       assertTrue(boolean4 == boolean3);
+150:       assertTrue(boolean4 == boolean1);
+151:       assertFalse(stackAr1.equals((Object)stackAr4));
+152:       assertFalse(stackAr1.equals((Object)stackAr3));
+153:       assertFalse(stackAr1.equals((Object)stackAr2));
+154:       assertFalse(stackAr1.equals((Object)stackAr0));
+155:       assertFalse(stackAr2.equals((Object)stackAr1));
+156:       assertNotSame(stackAr1, stackAr4);
+157:       assertNotSame(stackAr1, stackAr3);
+158:       assertNotSame(stackAr1, stackAr2);
+159:       assertNotSame(stackAr1, stackAr0);
+160:       assertNotSame(stackAr2, stackAr1);
+161:       assertSame(stackAr2, stackAr0);
+162:       assertSame(stackAr2, stackAr3);
+163:       assertSame(stackAr2, stackAr4);
+164:       assertFalse(boolean4);
+165:       
+166:       int int2 = 0;
+167:       Object object0 = stackAr1.get(0);
+168:       assertFalse(stackAr1.equals((Object)stackAr4));
+169:       assertFalse(stackAr1.equals((Object)stackAr3));
+170:       assertFalse(stackAr1.equals((Object)stackAr2));
+171:       assertFalse(stackAr1.equals((Object)stackAr0));
+172:       assertNotSame(stackAr1, stackAr4);
+173:       assertNotSame(stackAr1, stackAr3);
+174:       assertNotSame(stackAr1, stackAr2);
+175:       assertNotSame(stackAr1, stackAr0);
+176:       assertNull(object0);
+177:       
+178:       // Undeclared exception!
+179:       try { 
+180:         ((StackAr)"").toString();
+181:         fail("Expecting exception: IllegalArgumentException");
+182:       
+183:       } catch(IllegalArgumentException e) {
+184:       }
+185:   }
+186: }
+RegularFileObject[/tmp/EvoSuite_36_1539014619078/org/autotest/StackAr_36_tmp__ESTest.java]
+1: /**
+2:  * Scaffolding file used to store all the setups needed to run 
+3:  * tests automatically generated by EvoSuite
+4:  * Mon Oct 08 16:03:39 GMT 2018
+5:  */
+6: 
+7: package org.autotest;
+8: 
+9: import org.evosuite.runtime.annotation.EvoSuiteClassExclude;
+10: import org.junit.BeforeClass;
+11: import org.junit.Before;
+12: import org.junit.After;
+13: import org.junit.AfterClass;
+14: import org.evosuite.runtime.sandbox.Sandbox;
+15: import org.evosuite.runtime.sandbox.Sandbox.SandboxMode;
+16: 
+17: @EvoSuiteClassExclude
+18: public class StackAr_36_tmp__ESTest_scaffolding {
+19: 
+20:   @org.junit.Rule 
+21:   public org.evosuite.runtime.vnet.NonFunctionalRequirementRule nfr = new org.evosuite.runtime.vnet.NonFunctionalRequirementRule();
+22: 
+23:   private static final java.util.Properties defaultProperties = (java.util.Properties) java.lang.System.getProperties().clone(); 
+24: 
+25:   private org.evosuite.runtime.thread.ThreadStopper threadStopper =  new org.evosuite.runtime.thread.ThreadStopper (org.evosuite.runtime.thread.KillSwitchHandler.getInstance(), 3000);
+26: 
+27: 
+28:   @BeforeClass 
+29:   public static void initEvoSuiteFramework() { 
+30:     org.evosuite.runtime.RuntimeSettings.className = "org.autotest.StackAr"; 
+31:     org.evosuite.runtime.GuiSupport.initialize(); 
+32:     org.evosuite.runtime.RuntimeSettings.maxNumberOfThreads = 100; 
+33:     org.evosuite.runtime.RuntimeSettings.maxNumberOfIterationsPerLoop = 10000; 
+34:     org.evosuite.runtime.RuntimeSettings.mockSystemIn = true; 
+35:     org.evosuite.runtime.RuntimeSettings.sandboxMode = org.evosuite.runtime.sandbox.Sandbox.SandboxMode.RECOMMENDED; 
+36:     org.evosuite.runtime.sandbox.Sandbox.initializeSecurityManagerForSUT(); 
+37:     org.evosuite.runtime.classhandling.JDKClassResetter.init();
+38:     setSystemProperties();
+39:     initializeClasses();
+40:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+41:   } 
+42: 
+43:   @AfterClass 
+44:   public static void clearEvoSuiteFramework(){ 
+45:     Sandbox.resetDefaultSecurityManager(); 
+46:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+47:   } 
+48: 
+49:   @Before 
+50:   public void initTestCase(){ 
+51:     threadStopper.storeCurrentThreads();
+52:     threadStopper.startRecordingTime();
+53:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().initHandler(); 
+54:     org.evosuite.runtime.sandbox.Sandbox.goingToExecuteSUTCode(); 
+55:     setSystemProperties(); 
+56:     org.evosuite.runtime.GuiSupport.setHeadless(); 
+57:     org.evosuite.runtime.Runtime.getInstance().resetRuntime(); 
+58:     org.evosuite.runtime.agent.InstrumentingAgent.activate(); 
+59:   } 
+60: 
+61:   @After 
+62:   public void doneWithTestCase(){ 
+63:     threadStopper.killAndJoinClientThreads();
+64:     org.evosuite.runtime.jvm.ShutdownHookHandler.getInstance().safeExecuteAddedHooks(); 
+65:     org.evosuite.runtime.classhandling.JDKClassResetter.reset(); 
+66:     resetClasses(); 
+67:     org.evosuite.runtime.sandbox.Sandbox.doneWithExecutingSUTCode(); 
+68:     org.evosuite.runtime.agent.InstrumentingAgent.deactivate(); 
+69:     org.evosuite.runtime.GuiSupport.restoreHeadlessMode(); 
+70:   } 
+71: 
+72:   public static void setSystemProperties() {
+73:  
+74:     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
+75:     java.lang.System.setProperty("file.encoding", "UTF-8"); 
+76:     java.lang.System.setProperty("java.awt.headless", "true"); 
+77:     java.lang.System.setProperty("java.io.tmpdir", "/tmp"); 
+78:     java.lang.System.setProperty("user.country", "ES"); 
+79:     java.lang.System.setProperty("user.dir", "/home/nacho/Documentos/Facultad/Cursada/2018/2do Cuatri/Generacion Automatica de Tests/Talleres/Taller de Search based testing/Taller05-EvoSuite"); 
+80:     java.lang.System.setProperty("user.home", "/home/nacho"); 
+81:     java.lang.System.setProperty("user.language", "es"); 
+82:     java.lang.System.setProperty("user.name", "nacho"); 
+83:     java.lang.System.setProperty("user.timezone", "America/Argentina/Buenos_Aires"); 
+84:   }
+85: 
+86:   private static void initializeClasses() {
+87:     org.evosuite.runtime.classhandling.ClassStateSupport.initializeClasses(StackAr_36_tmp__ESTest_scaffolding.class.getClassLoader() ,
+88:       "org.autotest.StackAr$StackIn",
+89:       "org.autotest.StackAr"
+90:     );
+91:   } 
+92: 
+93:   private static void resetClasses() {
+94:     org.evosuite.runtime.classhandling.ClassResetter.getInstance().setClassLoader(StackAr_36_tmp__ESTest_scaffolding.class.getClassLoader()); 
+95: 
+96:     org.evosuite.runtime.classhandling.ClassStateSupport.resetClasses(
+97:       "org.autotest.StackAr",
+98:       "org.autotest.StackAr$StackIn"
+99:     );
+100:   }
+101: }
+
+[MASTER] 13:03:39.226 [pool-2-thread-1] ERROR JUnitAnalyzer - Failed to compile test case:
+StackAr stackAr0 = new StackAr(10);
+assertNotNull(stackAr0);
+
+StackAr stackAr1 = new StackAr(10);
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertNotNull(stackAr1);
+
+stackAr0.push(stackAr1);
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertNotSame(stackAr0, stackAr1);
+assertNotSame(stackAr1, stackAr0);
+
+boolean boolean0 = stackAr0.isFull();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+assertFalse(boolean0);
+
+stackAr1.push(stackAr0);
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertNotSame(stackAr0, stackAr1);
+assertNotSame(stackAr1, stackAr0);
+
+boolean boolean1 = stackAr1.isFull();
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertTrue(boolean1 == boolean0);
+assertNotSame(stackAr1, stackAr0);
+assertFalse(boolean1);
+
+stackAr0.increaseCapacity(1);
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+
+boolean boolean2 = stackAr0.isEmpty();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertTrue(boolean2 == boolean1);
+assertTrue(boolean2 == boolean0);
+assertNotSame(stackAr0, stackAr1);
+assertFalse(boolean2);
+
+boolean boolean3 = stackAr0.isEmpty();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertTrue(boolean3 == boolean0);
+assertTrue(boolean3 == boolean2);
+assertTrue(boolean3 == boolean1);
+assertNotSame(stackAr0, stackAr1);
+assertFalse(boolean3);
+
+int int0 = stackAr1.size();
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertNotSame(stackAr1, stackAr0);
+assertEquals(1, int0);
+
+StackAr stackAr2 = (StackAr)stackAr1.pop();
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertFalse(stackAr2.equals((Object)stackAr1));
+assertNotSame(stackAr1, stackAr2);
+assertNotSame(stackAr1, stackAr0);
+assertNotSame(stackAr2, stackAr1);
+assertSame(stackAr2, stackAr0);
+assertNotNull(stackAr2);
+
+stackAr2.push("");
+assertFalse(stackAr1.equals((Object)stackAr2));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertFalse(stackAr2.equals((Object)stackAr1));
+assertNotSame(stackAr1, stackAr2);
+assertNotSame(stackAr1, stackAr0);
+assertNotSame(stackAr2, stackAr1);
+assertSame(stackAr2, stackAr0);
+
+stackAr0.push(stackAr2);
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(stackAr1.equals((Object)stackAr2));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertFalse(stackAr2.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+assertSame(stackAr0, stackAr2);
+assertNotSame(stackAr1, stackAr2);
+assertNotSame(stackAr1, stackAr0);
+assertNotSame(stackAr2, stackAr1);
+assertSame(stackAr2, stackAr0);
+
+StackAr stackAr3 = (StackAr)stackAr0.top();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(stackAr3.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+assertSame(stackAr0, stackAr2);
+assertSame(stackAr0, stackAr3);
+assertSame(stackAr3, stackAr0);
+assertNotSame(stackAr3, stackAr1);
+assertSame(stackAr3, stackAr2);
+assertNotNull(stackAr3);
+
+int int1 = stackAr0.size();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(int1 == int0);
+assertNotSame(stackAr0, stackAr1);
+assertSame(stackAr0, stackAr2);
+assertSame(stackAr0, stackAr3);
+assertEquals(3, int1);
+
+StackAr stackAr4 = (StackAr)stackAr0.pop();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertFalse(stackAr4.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+assertSame(stackAr0, stackAr4);
+assertSame(stackAr0, stackAr2);
+assertSame(stackAr0, stackAr3);
+assertSame(stackAr4, stackAr3);
+assertSame(stackAr4, stackAr2);
+assertSame(stackAr4, stackAr0);
+assertNotSame(stackAr4, stackAr1);
+assertNotNull(stackAr4);
+
+String string0 = (String)stackAr0.pop();
+assertFalse(stackAr0.equals((Object)stackAr1));
+assertNotSame(stackAr0, stackAr1);
+assertSame(stackAr0, stackAr4);
+assertSame(stackAr0, stackAr2);
+assertSame(stackAr0, stackAr3);
+assertEquals("", string0);
+assertNotNull(string0);
+
+boolean boolean4 = stackAr2.isEmpty();
+assertTrue(boolean4 == boolean2);
+assertTrue(boolean4 == boolean0);
+assertTrue(boolean4 == boolean3);
+assertTrue(boolean4 == boolean1);
+assertFalse(stackAr1.equals((Object)stackAr4));
+assertFalse(stackAr1.equals((Object)stackAr3));
+assertFalse(stackAr1.equals((Object)stackAr2));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertFalse(stackAr2.equals((Object)stackAr1));
+assertNotSame(stackAr1, stackAr4);
+assertNotSame(stackAr1, stackAr3);
+assertNotSame(stackAr1, stackAr2);
+assertNotSame(stackAr1, stackAr0);
+assertNotSame(stackAr2, stackAr1);
+assertSame(stackAr2, stackAr0);
+assertSame(stackAr2, stackAr3);
+assertSame(stackAr2, stackAr4);
+assertFalse(boolean4);
+
+int int2 = 0;
+Object object0 = stackAr1.get(0);
+assertFalse(stackAr1.equals((Object)stackAr4));
+assertFalse(stackAr1.equals((Object)stackAr3));
+assertFalse(stackAr1.equals((Object)stackAr2));
+assertFalse(stackAr1.equals((Object)stackAr0));
+assertNotSame(stackAr1, stackAr4);
+assertNotSame(stackAr1, stackAr3);
+assertNotSame(stackAr1, stackAr2);
+assertNotSame(stackAr1, stackAr0);
+assertNull(object0);
+
+((StackAr)"").toString();
+
+[MASTER] 13:03:41.014 [pool-2-thread-1] ERROR JUnitAnalyzer - Ran out of time while checking tests

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="104" failures="0" name="ErrorTest" time="0.045" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Nacho\Desktop\Ignacio\UBA\Cursada\2018\2do Cuatri\Generacion Automatica de Tests\Talleres\Taller de Random Testing\Taller03\stackar"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Nacho\Desktop\Ignacio\UBA\Cursada\2018\2do Cuatri\Generacion Automatica de Tests\Talleres\Taller de Random Testing\Taller03\stackar"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Nacho\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Nacho\Documents\apache-maven-3.5.4\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.2\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.2\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Calibre2\;C:\Program Files\Git\cmd;C:\Program Files\Haskell Platform\8.2.2\mingw\bin;C:\Program Files\PuTTY\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python35\Scripts;;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.2.2\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.2.2\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Calibre2\;C:\Program Files\Git\cmd;C:\Program Files\Haskell Platform\8.2.2\mingw\bin;C:\Program Files\PuTTY\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Python35\Scripts;;C:\Program Files\Microsoft VS Code\bin;C:\Users\Nacho\AppData\Roaming\c;."/>
+    <property name="maven.conf" value="C:\Users\Nacho\Documents\apache-maven-3.5.4\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Users\Nacho\Documents\apache-maven-3.5.4\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Nacho"/>
+    <property name="user.timezone" value="America/Buenos_Aires"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Nacho"/>
+    <property name="java.class.path" value="C:\Users\Nacho\Documents\apache-maven-3.5.4\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_181\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Nacho\Documents\apache-maven-3.5.4\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="ErrorTest0" name="test001" time="0.005"/>
+  <testcase classname="ErrorTest0" name="test002" time="0"/>
+  <testcase classname="ErrorTest0" name="test003" time="0"/>
+  <testcase classname="ErrorTest0" name="test004" time="0.011"/>
+  <testcase classname="ErrorTest0" name="test005" time="0"/>
+  <testcase classname="ErrorTest0" name="test006" time="0"/>
+  <testcase classname="ErrorTest0" name="test007" time="0"/>
+  <testcase classname="ErrorTest0" name="test008" time="0"/>
+  <testcase classname="ErrorTest0" name="test009" time="0"/>
+  <testcase classname="ErrorTest0" name="test010" time="0"/>
+  <testcase classname="ErrorTest0" name="test011" time="0"/>
+  <testcase classname="ErrorTest0" name="test012" time="0.012"/>
+  <testcase classname="ErrorTest0" name="test013" time="0"/>
+  <testcase classname="ErrorTest0" name="test014" time="0"/>
+  <testcase classname="ErrorTest0" name="test015" time="0"/>
+  <testcase classname="ErrorTest0" name="test016" time="0"/>
+  <testcase classname="ErrorTest0" name="test017" time="0"/>
+  <testcase classname="ErrorTest0" name="test018" time="0.014"/>
+  <testcase classname="ErrorTest0" name="test019" time="0"/>
+  <testcase classname="ErrorTest0" name="test020" time="0.001"/>
+  <testcase classname="ErrorTest0" name="test021" time="0"/>
+  <testcase classname="ErrorTest0" name="test022" time="0"/>
+  <testcase classname="ErrorTest0" name="test023" time="0"/>
+  <testcase classname="ErrorTest0" name="test024" time="0"/>
+  <testcase classname="ErrorTest0" name="test025" time="0"/>
+  <testcase classname="ErrorTest0" name="test026" time="0"/>
+  <testcase classname="ErrorTest0" name="test027" time="0"/>
+  <testcase classname="ErrorTest0" name="test028" time="0"/>
+  <testcase classname="ErrorTest0" name="test029" time="0"/>
+  <testcase classname="ErrorTest0" name="test030" time="0"/>
+  <testcase classname="ErrorTest0" name="test031" time="0"/>
+  <testcase classname="ErrorTest0" name="test032" time="0"/>
+  <testcase classname="ErrorTest0" name="test033" time="0"/>
+  <testcase classname="ErrorTest0" name="test034" time="0"/>
+  <testcase classname="ErrorTest0" name="test035" time="0"/>
+  <testcase classname="ErrorTest0" name="test036" time="0"/>
+  <testcase classname="ErrorTest0" name="test037" time="0"/>
+  <testcase classname="ErrorTest0" name="test038" time="0"/>
+  <testcase classname="ErrorTest0" name="test039" time="0"/>
+  <testcase classname="ErrorTest0" name="test040" time="0"/>
+  <testcase classname="ErrorTest0" name="test041" time="0"/>
+  <testcase classname="ErrorTest0" name="test042" time="0"/>
+  <testcase classname="ErrorTest0" name="test043" time="0"/>
+  <testcase classname="ErrorTest0" name="test044" time="0"/>
+  <testcase classname="ErrorTest0" name="test045" time="0"/>
+  <testcase classname="ErrorTest0" name="test046" time="0"/>
+  <testcase classname="ErrorTest0" name="test047" time="0"/>
+  <testcase classname="ErrorTest0" name="test048" time="0"/>
+  <testcase classname="ErrorTest0" name="test049" time="0"/>
+  <testcase classname="ErrorTest0" name="test050" time="0"/>
+  <testcase classname="ErrorTest0" name="test051" time="0"/>
+  <testcase classname="ErrorTest0" name="test052" time="0"/>
+  <testcase classname="ErrorTest0" name="test053" time="0"/>
+  <testcase classname="ErrorTest0" name="test054" time="0"/>
+  <testcase classname="ErrorTest0" name="test055" time="0"/>
+  <testcase classname="ErrorTest0" name="test056" time="0"/>
+  <testcase classname="ErrorTest0" name="test057" time="0"/>
+  <testcase classname="ErrorTest0" name="test058" time="0"/>
+  <testcase classname="ErrorTest0" name="test059" time="0"/>
+  <testcase classname="ErrorTest0" name="test060" time="0"/>
+  <testcase classname="ErrorTest0" name="test061" time="0"/>
+  <testcase classname="ErrorTest0" name="test062" time="0"/>
+  <testcase classname="ErrorTest0" name="test063" time="0"/>
+  <testcase classname="ErrorTest0" name="test064" time="0"/>
+  <testcase classname="ErrorTest0" name="test065" time="0"/>
+  <testcase classname="ErrorTest0" name="test066" time="0"/>
+  <testcase classname="ErrorTest0" name="test067" time="0"/>
+  <testcase classname="ErrorTest0" name="test068" time="0"/>
+  <testcase classname="ErrorTest0" name="test069" time="0"/>
+  <testcase classname="ErrorTest0" name="test070" time="0"/>
+  <testcase classname="ErrorTest0" name="test071" time="0"/>
+  <testcase classname="ErrorTest0" name="test072" time="0"/>
+  <testcase classname="ErrorTest0" name="test073" time="0"/>
+  <testcase classname="ErrorTest0" name="test074" time="0"/>
+  <testcase classname="ErrorTest0" name="test075" time="0"/>
+  <testcase classname="ErrorTest0" name="test076" time="0"/>
+  <testcase classname="ErrorTest0" name="test077" time="0"/>
+  <testcase classname="ErrorTest0" name="test078" time="0"/>
+  <testcase classname="ErrorTest0" name="test079" time="0.001"/>
+  <testcase classname="ErrorTest0" name="test080" time="0"/>
+  <testcase classname="ErrorTest0" name="test081" time="0.001"/>
+  <testcase classname="ErrorTest0" name="test082" time="0"/>
+  <testcase classname="ErrorTest0" name="test083" time="0"/>
+  <testcase classname="ErrorTest0" name="test084" time="0"/>
+  <testcase classname="ErrorTest0" name="test085" time="0"/>
+  <testcase classname="ErrorTest0" name="test086" time="0"/>
+  <testcase classname="ErrorTest0" name="test087" time="0"/>
+  <testcase classname="ErrorTest0" name="test088" time="0"/>
+  <testcase classname="ErrorTest0" name="test089" time="0"/>
+  <testcase classname="ErrorTest0" name="test090" time="0"/>
+  <testcase classname="ErrorTest0" name="test091" time="0"/>
+  <testcase classname="ErrorTest0" name="test092" time="0"/>
+  <testcase classname="ErrorTest0" name="test093" time="0"/>
+  <testcase classname="ErrorTest0" name="test094" time="0"/>
+  <testcase classname="ErrorTest0" name="test095" time="0"/>
+  <testcase classname="ErrorTest0" name="test096" time="0"/>
+  <testcase classname="ErrorTest0" name="test097" time="0"/>
+  <testcase classname="ErrorTest0" name="test098" time="0"/>
+  <testcase classname="ErrorTest0" name="test099" time="0"/>
+  <testcase classname="ErrorTest0" name="test100" time="0"/>
+  <testcase classname="ErrorTest0" name="test101" time="0"/>
+  <testcase classname="ErrorTest0" name="test102" time="0"/>
+  <testcase classname="ErrorTest0" name="test103" time="0"/>
+  <testcase classname="ErrorTest0" name="test104" time="0"/>
+</testsuite>

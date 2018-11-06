@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>StackAr.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">stackar</a> &gt; <a href="index.source.html" class="el_package">org.autotest</a> &gt; <span class="el_source">StackAr.java</span></div><h1>StackAr.java</h1><pre class="source lang-java linenums">package org.autotest;
+
+import java.util.Arrays;
+import randoop.CheckRep;
+
+public class StackAr {
+
+	private final static int DEFAULT_CAPACITY = 10;
+
+	private final Object[] elems;
+
+<span class="fc" id="L12">	private int readIndex = -1;</span>
+
+	public StackAr() {
+<span class="fc" id="L15">		this(DEFAULT_CAPACITY);</span>
+<span class="fc" id="L16">	}</span>
+
+<span class="fc" id="L18">	public StackAr(int capacity) throws IllegalArgumentException {</span>
+<span class="fc bfc" id="L19" title="All 2 branches covered.">		if (capacity &lt; 0) {</span>
+<span class="fc" id="L20">			throw new IllegalArgumentException();</span>
+		}
+<span class="fc" id="L22">		this.elems = new Object[capacity];</span>
+<span class="fc" id="L23">	}</span>
+
+	public int size() {
+<span class="fc" id="L26">		return readIndex+1;</span>
+	}
+
+	public boolean isEmpty() {
+<span class="fc bfc" id="L30" title="All 2 branches covered.">		return size() == 0;</span>
+	}
+
+	public boolean isFull() {
+<span class="fc bfc" id="L34" title="All 2 branches covered.">		return size() == elems.length;</span>
+	}
+
+	public void push(Object o) throws IllegalStateException {
+<span class="fc bfc" id="L38" title="All 2 branches covered.">		if (isFull()) {</span>
+<span class="fc" id="L39">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L41">		this.readIndex++;</span>
+<span class="fc" id="L42">		this.elems[readIndex] = o;</span>
+<span class="fc" id="L43">	}</span>
+
+	public Object pop() throws IllegalStateException {
+<span class="fc bfc" id="L46" title="All 2 branches covered.">		if (isEmpty()) {</span>
+<span class="fc" id="L47">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L49">		Object rv = this.top();</span>
+<span class="fc" id="L50">		elems[readIndex] = null; // No se ponian en null los elementos popeados</span>
+<span class="fc" id="L51">		readIndex--;</span>
+<span class="fc" id="L52">		return rv;</span>
+	}
+
+	@CheckRep
+	public boolean repOK() {
+<span class="fc" id="L57">		return true;/*</span>
+		if (elems == null) return false;
+
+		if (readIndex &lt;-1 || readIndex &gt; elems.length) return false;
+
+		for (int j = readIndex + 1; j &lt; elems.length; ++j) {
+			if (elems[j] != null) return false;
+		}
+
+		return true;*/
+	}
+
+	public Object top() throws IllegalStateException {
+<span class="fc bfc" id="L70" title="All 2 branches covered.">		if (isEmpty()) {</span>
+<span class="fc" id="L71">			throw new IllegalStateException();</span>
+		}
+<span class="fc" id="L73">		Object rv = this.elems[readIndex];</span>
+<span class="fc" id="L74">		return rv;</span>
+	}
+
+	@Override
+	public int hashCode() {
+<span class="nc" id="L79">		final int prime = 31;</span>
+<span class="nc" id="L80">		int result = 1;</span>
+<span class="nc" id="L81">		result = prime * result + Arrays.hashCode(elems);</span>
+<span class="nc" id="L82">		result = prime * result + readIndex;</span>
+<span class="nc" id="L83">		return result;</span>
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+<span class="pc bpc" id="L88" title="1 of 2 branches missed.">		if (this == obj)</span>
+<span class="nc" id="L89">			return true;</span>
+<span class="fc bfc" id="L90" title="All 2 branches covered.">		if (obj == null)</span>
+<span class="fc" id="L91">			return false;</span>
+<span class="fc bfc" id="L92" title="All 2 branches covered.">		if (getClass() != obj.getClass())</span>
+<span class="fc" id="L93">			return false;</span>
+<span class="fc" id="L94">		StackAr other = (StackAr) obj;</span>
+<span class="fc bfc" id="L95" title="All 2 branches covered.">		if (!Arrays.equals(elems, other.elems))</span>
+<span class="fc" id="L96">			return false;</span>
+<span class="pc bpc" id="L97" title="1 of 2 branches missed.">		if (readIndex != other.readIndex)</span>
+<span class="nc" id="L98">			return false;</span>
+<span class="fc" id="L99">		return true;</span>
+	}
+
+	@Override
+	public String toString() {
+<span class="fc" id="L104">		StringBuffer b = new StringBuffer();</span>
+<span class="fc" id="L105">		b.append(&quot;[&quot;);</span>
+<span class="fc bfc" id="L106" title="All 2 branches covered.">		for (int i = 0; i &lt;= readIndex; i++) {</span>
+<span class="fc bfc" id="L107" title="All 2 branches covered.">			if (i &gt; 0) {</span>
+<span class="fc" id="L108">				b.append(&quot;,&quot;);</span>
+			}
+<span class="fc" id="L110">			Object o = elems[i];</span>
+<span class="fc" id="L111">			String s = String.valueOf(o);</span>
+<span class="fc" id="L112">			b.append(s);</span>
+		}
+<span class="fc" id="L114">		b.append(&quot;]&quot;);</span>
+<span class="fc" id="L115">		return b.toString();</span>
+	}
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.7.201606060606</span></div></body></html>

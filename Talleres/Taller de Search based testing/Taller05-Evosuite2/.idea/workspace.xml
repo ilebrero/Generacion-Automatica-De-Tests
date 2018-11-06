@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e07d613-8e4e-4880-a167-66de507c3785" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Taller05_Evosuite2$StackAr_ESTest.ic" NAME="StackAr_ESTest Coverage Results" MODIFIED="1540065786376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.autotest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="75" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="926872337">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="22" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="22" />
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="285" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="285" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#2659#2660#0" expanded="true" />
+                <element signature="e#2686#2687#0" expanded="true" />
+                <element signature="e#2716#2717#0" expanded="true" />
+                <element signature="e#2743#2744#0" expanded="true" />
+                <element signature="e#2772#2773#0" expanded="true" />
+                <element signature="e#2810#2811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr_ESTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9840">
+              <caret line="1022" selection-start-line="1022" selection-end-line="1022" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr_ESTest_scaffolding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr_ESTest.java" />
+        <option value="$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="169" />
+    <option name="y" value="43" />
+    <option name="width" value="1421" />
+    <option name="height" value="857" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="evo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="evo" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="stackar_src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taller05-Evosuite2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taller05-EvoSuite(1)" type="462c0819:PsiDirectoryNode" />
+              <item name="stackar_src" type="462c0819:PsiDirectoryNode" />
+              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JAVA_HOME" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="cores_evosuite_param" value="1" />
+    <property name="evosuite_gui_dialog_height" value="394" />
+    <property name="evosuite_gui_dialog_width" value="766" />
+    <property name="evosuite_jar_location" value="$PROJECT_DIR$/Taller05-EvoSuite(1)/evosuite-1.0.6.jar" />
+    <property name="execution_mode" value="MVN" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest" />
+    <property name="memory_evosuite_param" value="2000" />
+    <property name="mvn_location" value="" />
+    <property name="target_folder_evosuite_param" value="src/evo" />
+    <property name="time_evosuite_param" value="2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StackAr_ESTest">
+    <configuration name="StackAr_ESTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taller05-EvoSuite(1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.autotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.autotest" />
+      <option name="MAIN_CLASS_NAME" value="org.autotest.StackAr_ESTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackAr_ESTest.test29" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taller05-EvoSuite(1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.autotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.autotest" />
+      <option name="MAIN_CLASS_NAME" value="org.autotest.StackAr_ESTest" />
+      <option name="METHOD_NAME" value="test29" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StackAr_ESTest" />
+      <item itemvalue="JUnit.StackAr_ESTest.test29" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StackAr_ESTest" />
+        <item itemvalue="JUnit.StackAr_ESTest.test29" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.19 at 18h 54m 44s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.19 at 18h 55m 55s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 16h 56m 50s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 16h 57m 27s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 16h 58m 52s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 17h 00m 29s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 17h 01m 15s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 17h 02m 10s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest_test29 - 2018.10.20 at 17h 02m 46s.xml">
+      <configuration name="StackAr_ESTest.test29" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackAr_ESTest - 2018.10.20 at 17h 03m 08s.xml">
+      <configuration name="StackAr_ESTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="EvoSuite" weight="0.32931727" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892906" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="right" id="Coverage" sideWeight="0.5011136" side_tool="true" visible="true" weight="0.32947233" />
+      <window_info anchor="right" id="Database" sideWeight="0.4988864" weight="0.32947233" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr_ESTest_scaffolding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Taller05-EvoSuite(1)/evosuite-1.0.6.jar!/org/junit/internal/runners/statements/FailOnTimeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Taller05-EvoSuite(1)/evosuite-1.0.6.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Taller05-EvoSuite(1)/evosuite-1.0.6.jar!/org/evosuite/runtime/thread/KillSwitchHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Taller05-EvoSuite(1)/evosuite-1.0.6.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#2686#2687#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2743#2744#0" expanded="true" />
+            <element signature="e#2772#2773#0" expanded="true" />
+            <element signature="e#2810#2811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taller05-EvoSuite(1)/stackar_src/org/autotest/StackAr_ESTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9840">
+          <caret line="1022" selection-start-line="1022" selection-end-line="1022" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

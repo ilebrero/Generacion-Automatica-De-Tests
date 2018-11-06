@@ -1,0 +1,34 @@
+1) 
+	A)  No hubo fallas.
+
+	B)  Un input genero crashes y no hubo hangs.
+		El tamano minimo del input que genera un crash es 12 bytes 
+
+	C)  Minimizando el input anterior quedo en 4 bytes:
+		File size reduced by : 66.67% (to 4 bytes)
+
+	D)  El input que genero crashes fue:
+			Hell
+			ld
+
+			Nic
+
+		El input minimizado quedo:
+
+
+
+			0
+
+2)
+	A) No hubo ninguna falla
+	
+	B) Se encontraron 2 crashes y 6 hangs
+	   El tamano minimo de los crashes fue 
+
+	C) Minimos:
+		1er input: File size reduced by : 80.00% (to 8 bytes)
+		2do input: File size reduced by : 90.00% (to 8 bytes)
+
+	D) Estan en la carpeta "Inputs_ej_2"
+
+Todos los stats estan en las carpetas "afl_out" de cada ejercicio.

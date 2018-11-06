@@ -1,0 +1,7 @@
+Primera pasada (target/report/201809101429)
+- Lineas Reportadas 52/52 con 6 mutantes vivos. Mutation Coverage = 0.83
+
+Segunda Pasada (target/report/201809101454)
+- Mejorando (testHashCodeMutated y popMutated) da:
+	- Mismas lineas reportadas con 1 solo mutante vivo (Mutation coverage = 0.97)
+	- El mutante que quedo vivo fue uno equivalente (Cambio un * por / en hashCode sobre Primo(= 1))

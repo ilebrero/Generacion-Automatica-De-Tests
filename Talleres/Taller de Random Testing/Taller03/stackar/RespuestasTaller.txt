@@ -1,0 +1,6 @@
+1) Genero 312 tests sin failing test cases
+2) Tiene 88% de cobertura de lineas y 92% de branches.
+3) 
+	Genero 678 tests con 104 fallas.
+	Faltaba dejar en null los elementos popeados.
+	El coverage de lineas quedo en 88% y 86% el de branches por agregar el repOK. 
