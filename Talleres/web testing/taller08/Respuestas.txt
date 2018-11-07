@@ -4,10 +4,85 @@
 	
 2)
 	Hay 10623 links internos
-	Hay 3 links rotos (404), son:
-		https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculaci%C3%B3n_tsu_icc.jpg | Es usada en:
-		https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculaci%C3%B3n_programar_icc.jpg | Es usada en:
-		https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculaci%C3%B3n_medalia_icc.jpg | Es usada en:
+	Hay 3 links rotos son:
+		404:
+			https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculación_programar_icc.jpg | Es usada en:
+				----https://icc.fcen.uba.ar/tag/programacion/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/
+				----https://icc.fcen.uba.ar/noticias/
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/#
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#respond
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#respond
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#
+				----https://icc.fcen.uba.ar/category/noticias/#
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/
+				----https://icc.fcen.uba.ar/author/ignacio/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#
+				----https://icc.fcen.uba.ar/category/noticias/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#respond
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/#
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#respond
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/
+				----https://icc.fcen.uba.ar/author/ignacio/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/
+				----https://icc.fcen.uba.ar/tag/didactica/#
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/
+				----https://icc.fcen.uba.ar/noticias/#
+				----https://icc.fcen.uba.ar/tag/programacion/#
+				----https://icc.fcen.uba.ar/tag/didactica/
+			https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculación_medalia_icc.jpg | Es usada en:
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/
+				----https://icc.fcen.uba.ar/noticias/
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/#
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#respond
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/#
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#respond
+				----https://icc.fcen.uba.ar/author/ignacio/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#respond
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/
+				----https://icc.fcen.uba.ar/noticias/#
+				----https://icc.fcen.uba.ar/tag/ingenieria-software/
+				----https://icc.fcen.uba.ar/tag/ingenieria-software/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#
+				----https://icc.fcen.uba.ar/category/noticias/#
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/
+				----https://icc.fcen.uba.ar/author/ignacio/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#
+				----https://icc.fcen.uba.ar/category/noticias/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#respond
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#
+			https://icc.fcen.uba.ar/wp-content/uploads/2018/06/vinculación_tsu_icc.jpg | Es usada en:
+				----https://icc.fcen.uba.ar/tag/investigacion-operativa/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/
+				----https://icc.fcen.uba.ar/noticias/
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/#
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#respond
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/#
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#respond
+				----https://icc.fcen.uba.ar/author/ignacio/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/
+				----https://icc.fcen.uba.ar/asistencia-tecnica-en-didactica-de-la-programacion/#
+				----https://icc.fcen.uba.ar/tag/investigacion-operativa/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#respond
+				----https://icc.fcen.uba.ar/category/noticias/vinculacion/
+				----https://icc.fcen.uba.ar/noticias/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#
+				----https://icc.fcen.uba.ar/category/noticias/#
+				----https://icc.fcen.uba.ar/doctores-que-brillan-en-la-industria/
+				----https://icc.fcen.uba.ar/author/ignacio/#
+				----https://icc.fcen.uba.ar/investigadores-del-icc-certificaron-la-calidad-del-software-genis/#
+				----https://icc.fcen.uba.ar/category/noticias/
+				----https://icc.fcen.uba.ar/investigadores-del-icc-trabajaron-junto-a-medallia-en-el-analisis-avanzado-de-software/#respond
+				----https://icc.fcen.uba.ar/solucion-en-investigacion-operativa-para-tsu-cosmeticos/#
 
 	No hubo otras excepciones IO.
 3)
@@ -16,89 +91,86 @@
 		Son:
 
 	400->1 urls
-	Links:
-	https://www.dc.uba.ar/../../cursada/materias | Es usada en:
-	----https://www.dc.uba.ar/docentes#portal-globalnav
-	----https://www.dc.uba.ar/docentes
-	----https://www.dc.uba.ar/docentes#content
+		https://www.dc.uba.ar/../../cursada/materias | Es usada en:
+			----https://www.dc.uba.ar/docentes#portal-globalnav
+			----https://www.dc.uba.ar/docentes
+			----https://www.dc.uba.ar/docentes#content
+	
 	404->18 urls
-	Links:
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012/dubisnki.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#content
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016/taravilse.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016#portal-globalnav
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/taraciuk | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/debandiresumen | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/benavids.zip | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
-	https://www.dc.uba.ar/descargas/sigaos/netetec.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/materias/listado-completo
-	----https://www.dc.uba.ar/materias/listado-completo
-	----https://www.dc.uba.ar/materias/listado-completo#portal-globalnav
-	----https://www.dc.uba.ar/materias/listado-completo#content
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001/barea.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001#content
-	https://www.dc.uba.ar/descargas/sigaos/SemAAP.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/materias/listado-completo
-	----https://www.dc.uba.ar/materias/listado-completo
-	----https://www.dc.uba.ar/materias/listado-completo#portal-globalnav
-	----https://www.dc.uba.ar/materias/listado-completo#content
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/grunberg-suplementario | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/desimoniresumen | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/yankelevich-suplementario | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006/tesis-Lorena-Bourg.pdf | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/cura-suplementario | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009/tajan-revert | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#content
-	https://www.dc.uba.ar/aca/concursos/jurado-pad-exclu-239-159.pdf | Es usada en:
-	----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03#portal-globalnav
-	----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03#content
-	----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/dmarquez-suplementario | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012/chicote | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#content
-	https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009/curiale-suplementario | Es usada en:
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#portal-globalnav
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009
-	----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#content
-
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012/dubisnki.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#content
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016/taravilse.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2016#portal-globalnav
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/taraciuk | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/debandiresumen | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/benavids.zip | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
+		https://www.dc.uba.ar/descargas/sigaos/netetec.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/materias/listado-completo
+			----https://www.dc.uba.ar/materias/listado-completo
+			----https://www.dc.uba.ar/materias/listado-completo#portal-globalnav
+			----https://www.dc.uba.ar/materias/listado-completo#content
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001/barea.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2001#content
+		https://www.dc.uba.ar/descargas/sigaos/SemAAP.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/materias/listado-completo
+			----https://www.dc.uba.ar/materias/listado-completo
+			----https://www.dc.uba.ar/materias/listado-completo#portal-globalnav
+			----https://www.dc.uba.ar/materias/listado-completo#content
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/grunberg-suplementario | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/desimoniresumen | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007/yankelevich-suplementario | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2007
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006/tesis-Lorena-Bourg.pdf | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2006
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/cura-suplementario | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009/tajan-revert | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#content
+		https://www.dc.uba.ar/aca/concursos/jurado-pad-exclu-239-159.pdf | Es usada en:
+			----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03#portal-globalnav
+			----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03#content
+			----https://www.dc.uba.ar/descargas/codep/minutas/2015/4-03
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010/dmarquez-suplementario | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#content
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2010#portal-globalnav
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012/chicote | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2012#content
+		https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009/curiale-suplementario | Es usada en:
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#portal-globalnav
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009
+			----https://www.dc.uba.ar/academica/tesis-de-licenciatura/2009#content
 
 	Otras exceptiones IO fueron:
-
-	javax.net.ssl.SSLHandshakeException
+		javax.net.ssl.SSLHandshakeException
